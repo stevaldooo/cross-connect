@@ -99,3 +99,6 @@ C:\Users\Stevaldo\.zcode\workspace\default\cross-connect\cross-connect\tests\Cro
 C:\Users\Stevaldo\.zcode\workspace\default\cross-connect\cross-connect\tests\CrossConnect.Core.Tests\obj\Debug\net10.0\CrossConnect.Core.Tests.pdb
 C:\Users\Stevaldo\.zcode\workspace\default\cross-connect\cross-connect\tests\CrossConnect.Core.Tests\obj\Debug\net10.0\CrossConnect.Core.Tests.genruntimeconfig.cache
 C:\Users\Stevaldo\.zcode\workspace\default\cross-connect\cross-connect\tests\CrossConnect.Core.Tests\obj\Debug\net10.0\ref\CrossConnect.Core.Tests.dll
+C:\Users\Stevaldo\Documents\GitHub Repository\cross-connect\cross-connect\tests\CrossConnect.Core.Tests\obj\Debug\net10.0\CrossConnect.Core.Tests.dll
+C:\Users\Stevaldo\Documents\GitHub Repository\cross-connect\cross-connect\tests\CrossConnect.Core.Tests\obj\Debug\net10.0\refint\CrossConnect.Core.Tests.dll
+C:\Users\Stevaldo\Documents\GitHub Repository\cross-connect\cross-connect\tests\CrossConnect.Core.Tests\obj\Debug\net10.0\CrossConnect.Core.Tests.pdb

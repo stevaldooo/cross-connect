@@ -935,11 +935,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stevaldo\\.zcode\\workspace\\default\\cross-connect\\cross-connect\\tests\\CrossConnect.Core.Tests\\CrossConnect.Core.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Stevaldo\\Documents\\GitHub Repository\\cross-connect\\cross-connect\\tests\\CrossConnect.Core.Tests\\CrossConnect.Core.Tests.csproj",
       "projectName": "CrossConnect.Core.Tests",
-      "projectPath": "C:\\Users\\Stevaldo\\.zcode\\workspace\\default\\cross-connect\\cross-connect\\tests\\CrossConnect.Core.Tests\\CrossConnect.Core.Tests.csproj",
+      "projectPath": "C:\\Users\\Stevaldo\\Documents\\GitHub Repository\\cross-connect\\cross-connect\\tests\\CrossConnect.Core.Tests\\CrossConnect.Core.Tests.csproj",
       "packagesPath": "C:\\Users\\Stevaldo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stevaldo\\.zcode\\workspace\\default\\cross-connect\\cross-connect\\tests\\CrossConnect.Core.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Stevaldo\\Documents\\GitHub Repository\\cross-connect\\cross-connect\\tests\\CrossConnect.Core.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stevaldo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -955,8 +955,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\Stevaldo\\.zcode\\workspace\\default\\cross-connect\\cross-connect\\src\\CrossConnect.Core\\CrossConnect.Core.csproj": {
-              "projectPath": "C:\\Users\\Stevaldo\\.zcode\\workspace\\default\\cross-connect\\cross-connect\\src\\CrossConnect.Core\\CrossConnect.Core.csproj"
+            "C:\\Users\\Stevaldo\\Documents\\GitHub Repository\\cross-connect\\cross-connect\\src\\CrossConnect.Core\\CrossConnect.Core.csproj": {
+              "projectPath": "C:\\Users\\Stevaldo\\Documents\\GitHub Repository\\cross-connect\\cross-connect\\src\\CrossConnect.Core\\CrossConnect.Core.csproj"
             }
           }
         }

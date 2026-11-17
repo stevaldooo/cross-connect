@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrossConnect.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d324366d866cad63627e4e70a45f611b65d99f7c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6de4ca023a23ffd155543928818ce0e5902167aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrossConnect.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrossConnect.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

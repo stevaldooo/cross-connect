@@ -22,3 +22,6 @@ C:\Users\Stevaldo\.zcode\workspace\default\cross-connect\cross-connect\src\Cross
 C:\Users\Stevaldo\.zcode\workspace\default\cross-connect\cross-connect\src\CrossConnect.App\obj\Debug\net10.0-windows\CrossConnect.App.pdb
 C:\Users\Stevaldo\.zcode\workspace\default\cross-connect\cross-connect\src\CrossConnect.App\obj\Debug\net10.0-windows\CrossConnect.App.genruntimeconfig.cache
 C:\Users\Stevaldo\.zcode\workspace\default\cross-connect\cross-connect\src\CrossConnect.App\obj\Debug\net10.0-windows\ref\CrossConnect.App.dll
+C:\Users\Stevaldo\Documents\GitHub Repository\cross-connect\cross-connect\src\CrossConnect.App\obj\Debug\net10.0-windows\CrossConnect.App.dll
+C:\Users\Stevaldo\Documents\GitHub Repository\cross-connect\cross-connect\src\CrossConnect.App\obj\Debug\net10.0-windows\refint\CrossConnect.App.dll
+C:\Users\Stevaldo\Documents\GitHub Repository\cross-connect\cross-connect\src\CrossConnect.App\obj\Debug\net10.0-windows\CrossConnect.App.pdb

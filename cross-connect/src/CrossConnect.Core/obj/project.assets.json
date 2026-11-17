@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stevaldo\\.zcode\\workspace\\default\\cross-connect\\cross-connect\\src\\CrossConnect.Core\\CrossConnect.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Stevaldo\\Documents\\GitHub Repository\\cross-connect\\cross-connect\\src\\CrossConnect.Core\\CrossConnect.Core.csproj",
       "projectName": "CrossConnect.Core",
-      "projectPath": "C:\\Users\\Stevaldo\\.zcode\\workspace\\default\\cross-connect\\cross-connect\\src\\CrossConnect.Core\\CrossConnect.Core.csproj",
+      "projectPath": "C:\\Users\\Stevaldo\\Documents\\GitHub Repository\\cross-connect\\cross-connect\\src\\CrossConnect.Core\\CrossConnect.Core.csproj",
       "packagesPath": "C:\\Users\\Stevaldo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stevaldo\\.zcode\\workspace\\default\\cross-connect\\cross-connect\\src\\CrossConnect.Core\\obj\\",
+      "outputPath": "C:\\Users\\Stevaldo\\Documents\\GitHub Repository\\cross-connect\\cross-connect\\src\\CrossConnect.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stevaldo\\AppData\\Roaming\\NuGet\\NuGet.Config"

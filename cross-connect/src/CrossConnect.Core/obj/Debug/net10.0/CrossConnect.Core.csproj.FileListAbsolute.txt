@@ -10,3 +10,11 @@ C:\Users\Stevaldo\.zcode\workspace\default\cross-connect\cross-connect\src\Cross
 C:\Users\Stevaldo\.zcode\workspace\default\cross-connect\cross-connect\src\CrossConnect.Core\obj\Debug\net10.0\refint\CrossConnect.Core.dll
 C:\Users\Stevaldo\.zcode\workspace\default\cross-connect\cross-connect\src\CrossConnect.Core\obj\Debug\net10.0\CrossConnect.Core.pdb
 C:\Users\Stevaldo\.zcode\workspace\default\cross-connect\cross-connect\src\CrossConnect.Core\obj\Debug\net10.0\ref\CrossConnect.Core.dll
+C:\Users\Stevaldo\Documents\GitHub Repository\cross-connect\cross-connect\src\CrossConnect.Core\obj\Debug\net10.0\CrossConnect.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stevaldo\Documents\GitHub Repository\cross-connect\cross-connect\src\CrossConnect.Core\obj\Debug\net10.0\CrossConnect.Core.AssemblyInfoInputs.cache
+C:\Users\Stevaldo\Documents\GitHub Repository\cross-connect\cross-connect\src\CrossConnect.Core\obj\Debug\net10.0\CrossConnect.Core.AssemblyInfo.cs
+C:\Users\Stevaldo\Documents\GitHub Repository\cross-connect\cross-connect\src\CrossConnect.Core\obj\Debug\net10.0\CrossConnect.Core.csproj.CoreCompileInputs.cache
+C:\Users\Stevaldo\Documents\GitHub Repository\cross-connect\cross-connect\src\CrossConnect.Core\obj\Debug\net10.0\CrossConnect.Core.sourcelink.json
+C:\Users\Stevaldo\Documents\GitHub Repository\cross-connect\cross-connect\src\CrossConnect.Core\obj\Debug\net10.0\CrossConnect.Core.dll
+C:\Users\Stevaldo\Documents\GitHub Repository\cross-connect\cross-connect\src\CrossConnect.Core\obj\Debug\net10.0\refint\CrossConnect.Core.dll
+C:\Users\Stevaldo\Documents\GitHub Repository\cross-connect\cross-connect\src\CrossConnect.Core\obj\Debug\net10.0\CrossConnect.Core.pdb

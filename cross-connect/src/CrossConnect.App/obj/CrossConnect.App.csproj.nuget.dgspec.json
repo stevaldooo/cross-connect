@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stevaldo\\.zcode\\workspace\\default\\cross-connect\\cross-connect\\src\\CrossConnect.App\\CrossConnect.App.csproj": {}
+    "C:\\Users\\Stevaldo\\Documents\\GitHub Repository\\cross-connect\\cross-connect\\src\\CrossConnect.App\\CrossConnect.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stevaldo\\.zcode\\workspace\\default\\cross-connect\\cross-connect\\src\\CrossConnect.App\\CrossConnect.App.csproj": {
+    "C:\\Users\\Stevaldo\\Documents\\GitHub Repository\\cross-connect\\cross-connect\\src\\CrossConnect.App\\CrossConnect.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stevaldo\\.zcode\\workspace\\default\\cross-connect\\cross-connect\\src\\CrossConnect.App\\CrossConnect.App.csproj",
+        "projectUniqueName": "C:\\Users\\Stevaldo\\Documents\\GitHub Repository\\cross-connect\\cross-connect\\src\\CrossConnect.App\\CrossConnect.App.csproj",
         "projectName": "CrossConnect.App",
-        "projectPath": "C:\\Users\\Stevaldo\\.zcode\\workspace\\default\\cross-connect\\cross-connect\\src\\CrossConnect.App\\CrossConnect.App.csproj",
+        "projectPath": "C:\\Users\\Stevaldo\\Documents\\GitHub Repository\\cross-connect\\cross-connect\\src\\CrossConnect.App\\CrossConnect.App.csproj",
         "packagesPath": "C:\\Users\\Stevaldo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stevaldo\\.zcode\\workspace\\default\\cross-connect\\cross-connect\\src\\CrossConnect.App\\obj\\",
+        "outputPath": "C:\\Users\\Stevaldo\\Documents\\GitHub Repository\\cross-connect\\cross-connect\\src\\CrossConnect.App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stevaldo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -27,8 +27,8 @@
             "framework": "net10.0-windows7.0",
             "targetAlias": "net10.0-windows",
             "projectReferences": {
-              "C:\\Users\\Stevaldo\\.zcode\\workspace\\default\\cross-connect\\cross-connect\\src\\CrossConnect.Core\\CrossConnect.Core.csproj": {
-                "projectPath": "C:\\Users\\Stevaldo\\.zcode\\workspace\\default\\cross-connect\\cross-connect\\src\\CrossConnect.Core\\CrossConnect.Core.csproj"
+              "C:\\Users\\Stevaldo\\Documents\\GitHub Repository\\cross-connect\\cross-connect\\src\\CrossConnect.Core\\CrossConnect.Core.csproj": {
+                "projectPath": "C:\\Users\\Stevaldo\\Documents\\GitHub Repository\\cross-connect\\cross-connect\\src\\CrossConnect.Core\\CrossConnect.Core.csproj"
               }
             }
           }
@@ -362,14 +362,14 @@
         }
       }
     },
-    "C:\\Users\\Stevaldo\\.zcode\\workspace\\default\\cross-connect\\cross-connect\\src\\CrossConnect.Core\\CrossConnect.Core.csproj": {
+    "C:\\Users\\Stevaldo\\Documents\\GitHub Repository\\cross-connect\\cross-connect\\src\\CrossConnect.Core\\CrossConnect.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stevaldo\\.zcode\\workspace\\default\\cross-connect\\cross-connect\\src\\CrossConnect.Core\\CrossConnect.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Stevaldo\\Documents\\GitHub Repository\\cross-connect\\cross-connect\\src\\CrossConnect.Core\\CrossConnect.Core.csproj",
         "projectName": "CrossConnect.Core",
-        "projectPath": "C:\\Users\\Stevaldo\\.zcode\\workspace\\default\\cross-connect\\cross-connect\\src\\CrossConnect.Core\\CrossConnect.Core.csproj",
+        "projectPath": "C:\\Users\\Stevaldo\\Documents\\GitHub Repository\\cross-connect\\cross-connect\\src\\CrossConnect.Core\\CrossConnect.Core.csproj",
         "packagesPath": "C:\\Users\\Stevaldo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stevaldo\\.zcode\\workspace\\default\\cross-connect\\cross-connect\\src\\CrossConnect.Core\\obj\\",
+        "outputPath": "C:\\Users\\Stevaldo\\Documents\\GitHub Repository\\cross-connect\\cross-connect\\src\\CrossConnect.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stevaldo\\AppData\\Roaming\\NuGet\\NuGet.Config"
