@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CrossConnect.Core/CrossConnect.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CrossConnect.Core.Tests/CrossConnect.Core.Tests.csproj" />
+  </Folder>
+  <Project Path="src/CrossConnect.App/CrossConnect.App.csproj" />
+</Solution>
+
