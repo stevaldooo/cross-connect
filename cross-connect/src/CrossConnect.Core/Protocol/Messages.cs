@@ -186,3 +186,55 @@ public record SwitchDeviceMessage : BaseMessage
     [JsonPropertyName("y")]
     public int Y { get; init; } = -1;
 }
+
+/// <summary>
+/// Sent by the client immediately after HELLO_ACK to start pairing.
+/// Carries the client's persistent DeviceId (a GUID) and friendly name.
+/// </summary>
+public record PairRequestMessage : BaseMessage
+{
+    public override string Type => MessageType.PairRequest;
+
+    [JsonPropertyName("deviceId")]
+    public required string DeviceId { get; init; }
+
+    [JsonPropertyName("deviceName")]
+    public required string DeviceName { get; init; }
+}
+
+/// <summary>
+/// Client's response to a PIN challenge from the host.
+/// </summary>
+public record PairConfirmMessage : BaseMessage
+{
+    public override string Type => MessageType.PairConfirm;
+
+    [JsonPropertyName("pin")]
+    public required string Pin { get; init; }
+}
+
+/// <summary>
+/// Host accepts the pairing. Carries the host's identity so the client
+/// knows which device it just trusted.
+/// </summary>
+public record PairAcceptMessage : BaseMessage
+{
+    public override string Type => MessageType.PairAccept;
+
+    [JsonPropertyName("hostDeviceId")]
+    public required string HostDeviceId { get; init; }
+
+    [JsonPropertyName("hostDeviceName")]
+    public required string HostDeviceName { get; init; }
+}
+
+/// <summary>
+/// Host rejects the pairing (wrong PIN, timeout, or user-cancelled).
+/// </summary>
+public record PairRejectMessage : BaseMessage
+{
+    public override string Type => MessageType.PairReject;
+
+    [JsonPropertyName("reason")]
+    public string? Reason { get; init; }
+}
